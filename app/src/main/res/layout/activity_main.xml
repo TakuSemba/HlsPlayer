@@ -12,4 +12,11 @@
         app:surface_type="texture_view"
         app:use_controller="false" />
 
+    <Button
+        android:id="@+id/retry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAllCaps="true"
+        android:text="@string/retry"/>
+
 </android.support.constraint.ConstraintLayout>
